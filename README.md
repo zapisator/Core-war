@@ -2,6 +2,8 @@
 
 School 21 CoreWar Project by Sberbank
 
+code goes [here](https://github.com/TesenDesk/CoreWar)
+
 Our company was bored at first to even begin doing the project. They said it was too easy and not interesting. I said I would take care of that part of the issue. Before we started, I ordered the book Alaint I. Holub, "C+ C++: Programming With Objects in C and C++. From there I took a lot of ideas: an abstract class or interface, the idea of a garbage collector (not really a garbage collector, but a class that makes sure it removes all the resources it requests), some design patterns, and a way to write classes more clearly. Although, of course, the restrictions the school imposed on the code format (no more than 5 functions in a file). Not every file managed to implement these ideas, but I tried very hard. Time passed, and we still did not start the project. I set out to learn how to properly write a compiler. Beforehand I described our compiler using the Extended Backus-Naur form. Little by little we got to work. I was also interested in articles on related topics. In every way I didn't let my colleagues get bored. And here is what we had.
 
 The goal of the project is to write an assembler for the game CoreWar, as well as a virtual machine to run the game. For more information see the file [sbj/11_corewar.en.pdf](https://github.com/TesenDesk/CoreWar/blob/working_flow/sbj/11_corewar.en.pdf).
